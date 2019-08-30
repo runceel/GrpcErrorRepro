@@ -19,7 +19,7 @@ cd WpfApp
 dotnet build
 ```
 
-There is following compile errors.
+Following compile errors is occurred.
 
 ```
 MainWindow.xaml.cs(35,55): error CS0246: The type or namespace name 'MyGrpcServices' could not be found (are you missing a using directive or an assembly reference?) [C:\Users\username\source\repos\GrpcErrorRepro\WpfApp\WpfApp_v4a1l2r4_wpftmp.csproj]
